@@ -1,0 +1,45 @@
+.circular-img {
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  background: url(http://www.resizemypicture.com/pictures//01555691b8f8b1801432951695.jpg) no-repeat;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  background-color: black;
+  color: green;
+  font-family: "Lucida Console", sans-serif;
+}
+
+
+.header-img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+
+.hi {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 36px;
+  color: purple;
+  position: relative;
+  left: 11.5em;
+  bottom: 8.5em;
+}
+
+.name {
+  font-family: "lucida console";
+  font-size: 72px;
+  color: purple;
+  position: relative;
+  left: 4.47em;
+  bottom: 4.7em;
+}
+
+.introduction-section, .location-section, .questions-section {
+  max-width: 38em;
+  margin-left: auto;
+  margin-right: auto
+}
